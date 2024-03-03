@@ -28,6 +28,10 @@ p, li, ul {
     color: rgb(51, 53, 45);
 }
 
+.chicken {
+    color: rgb(186, 40, 11);
+}
+
 .recipes-list {
     text-align: center;
     list-style-position: inside;
