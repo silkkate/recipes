@@ -20,8 +20,12 @@ p, li, ul {
 
 }
 
-#gingersnap-header {
+.gingersnap {
     color: rgb(123, 73, 13);
+}
+
+.bagel {
+    color: rgb(51, 53, 45);
 }
 
 .recipes-list {
