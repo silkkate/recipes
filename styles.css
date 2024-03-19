@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 body {
     background-image: url(y2k_bg.jpeg);
     background-size: cover;
@@ -44,14 +48,27 @@ p, li, ul {
 }
 
 .recipe {
-    text-align: center;
-    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-family: "clicker", sans-serif;
     font-weight: 400;
     font-style: normal;
+    text-align: center;
+    padding: 4px 8px 4px 8px;
     color: white;
+    width: 280px;
+    height: 40px;
+    margin: auto 8px;
+    border-radius: 5px;
+    background-color: rgb(244, 166, 216);
 }
 
+.recipe-options {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
 
 .source, .back-link {
     color:rgb(38, 154, 222);
