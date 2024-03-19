@@ -73,3 +73,10 @@ p, li, ul {
 .source, .back-link {
     color:rgb(38, 154, 222);
 }
+
+.eating-gif {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
