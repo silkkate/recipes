@@ -11,10 +11,6 @@ body {
 
 h1 {
     text-align: center;
-    color: rgb(224, 164, 44);
-    font-family: "clicker", sans-serif;
-    font-weight: 400;
-    font-style: normal;
 }
 
 h2 {
@@ -33,6 +29,12 @@ p, li, ul {
     color: white;
     font-size: 70px;
     margin-bottom: 0;
+}
+
+.gingersnap, .bagel, .chicken {
+    font-family: "clicker", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .gingersnap {
@@ -79,4 +81,5 @@ p, li, ul {
     align-items: center;
     justify-content: center;
     margin-bottom: 30px;
+    border-radius: 5px;
 }
