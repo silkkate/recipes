@@ -88,6 +88,6 @@ p, li, ul {
     border-radius: 5px;
 }
 
-.ginger-text {
+.ginger-text, .bagel-text {
     color: white;
 }
