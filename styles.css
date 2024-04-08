@@ -37,7 +37,7 @@ p, li, ul {
     font-style: normal;
 }
 
-.gingersnap {
+.gingersnap, .gingersnap-header {
     color: rgb(123, 73, 13);
 }
 
@@ -45,7 +45,7 @@ p, li, ul {
     color: rgb(51, 53, 45);
 }
 
-.chicken {
+.chicken-header {
     color: rgb(186, 40, 11);
 }
 
@@ -80,7 +80,7 @@ p, li, ul {
     color: white;
 }
 
-.eating-gif {
+.giphy-embed {
     display: flex;
     align-items: center;
     justify-content: center;
