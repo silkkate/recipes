@@ -37,11 +37,11 @@ p, li, ul {
     font-style: normal;
 }
 
-.gingersnap, .gingersnap-header {
+.gingersnap-header {
     color: rgb(123, 73, 13);
 }
 
-.bagel {
+.bagel, .bagel-header {
     color: rgb(51, 53, 45);
 }
 
