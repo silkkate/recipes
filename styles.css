@@ -31,7 +31,7 @@ p, li, ul {
     margin-bottom: 0;
 }
 
-.gingersnap, .bagel, .chicken {
+.gingersnap-header, .bagel-header, .chicken-header {
     font-family: "clicker", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -41,7 +41,7 @@ p, li, ul {
     color: rgb(123, 73, 13);
 }
 
-.bagel, .bagel-header {
+.bagel-header {
     color: rgb(51, 53, 45);
 }
 
