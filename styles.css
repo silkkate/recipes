@@ -81,9 +81,6 @@ p, li, ul {
 }
 
 .giphy-embed {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     margin-bottom: 30px;
     border-radius: 5px;
 }
