@@ -68,8 +68,11 @@ p, li, ul {
 
 .recipe-options {
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
+    gap: 16px;
 }
 
 .source, .back-link {
@@ -85,6 +88,11 @@ p, li, ul {
     justify-content: center;
     margin-bottom: 30px;
     border-radius: 5px;
+}
+
+.gif {
+    display: flex;
+    justify-content: center;
 }
 
 .ginger-text, .bagel-text, .chicken-text {
